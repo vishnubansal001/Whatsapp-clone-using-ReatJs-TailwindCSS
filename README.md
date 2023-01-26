@@ -1,4 +1,4 @@
-Hello Guys 
+<h1>Hello Guys </h1>
 <hr>
 <br>
 This is a whatsapp web clone made using React js and Tailwind CSS 
