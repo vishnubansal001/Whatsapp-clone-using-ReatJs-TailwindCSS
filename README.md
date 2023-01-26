@@ -1,8 +1,6 @@
 Hello Guys 
-
+<hr>
 <br>
-<br><br>
-
 This is a whatsapp web clone made using React js and Tailwind CSS 
 
 you can see this clone on vercel app 
